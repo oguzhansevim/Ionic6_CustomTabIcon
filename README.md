@@ -10,3 +10,5 @@
     <!-- AFTER -->
     <ion-icon src="assets/icon/tab1.svg"></ion-icon>
 ```
+
+<img width="458" alt="code" src="https://user-images.githubusercontent.com/27581049/202300656-622423bb-0b1c-4fa9-88ae-f3c4545e7db7.png">
